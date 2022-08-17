@@ -1,6 +1,6 @@
 # Windows boot manager
 
-[![Windows boot manager](red2.png)](https://computersolve.com/how-to-take-a-screenshot-on-a-pc/)
+[![Windows boot manager](red2.png)](https://github.com/digishare/windows-boot-manager)
 
 Windows Boot Manager loads from the volume boot code, which is part of the volume boot record. It helps your Windows 10, Windows 8, Windows 7, or Windows Vista operating system start.
 
